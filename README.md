@@ -8,7 +8,7 @@ Fiz um carrossel de cards com a tematica de Bleach.🤣😁😍👌
 Parecida com paginas de streamers como a Netflix
 
 
-# LINK: https://galux17.github.io/Bleach-Carrossell/
+# LINK: https://gabset07.github.io/Bleach-Carrossell/
 
 ## Projeto:![Bleach-carrossell](https://github.com/Galux17/Bleach-Carrossell/assets/103261889/396ea324-bf03-4f33-8a4f-06f28e82ad15)
 
